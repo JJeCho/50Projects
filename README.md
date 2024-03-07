@@ -21,7 +21,7 @@ This repository serves as the main hub for all projects featured in the course.
 | 13  | Random Choice Picker (https://github.com/JJeCho/50Projects/tree/main/ChoicePicker) | Live Demo (https://jjecho.github.io/50Projects/ChoicePicker/) |
 | 14  | Animated Navigation (https://github.com/JJeCho/50Projects/tree/main/AnimatedNavigation) | Live Demo (https://jjecho.github.io/50Projects/AnimatedNavigation/) |
 | 15  | Incrementing Counter (https://github.com/JJeCho/50Projects/tree/main/IncrementCounter) | Live Demo (https://jjecho.github.io/50Projects/IncrementCounter/) |
-| 16  | Drink Water | Live Demo |
+| 16  | Drink Water (https://github.com/JJeCho/50Projects/tree/main/DrinkWater) | Live Demo (https://jjecho.github.io/50Projects/DrinkWater/) |
 | 17  | Movie App | Live Demo |
 | 18  | Background Slider | Live Demo |
 | 19  | Theme Clock | Live Demo |
