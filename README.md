@@ -28,8 +28,8 @@ This repository serves as the main hub for all projects featured in the course.
 | 20  | Button Ripple Effect (https://github.com/JJeCho/50Projects/tree/main/ButtonRipple) | Live Demo (https://jjecho.github.io/50Projects/ButtonRipple/) |
 | 21  | Drag N Drop (https://github.com/JJeCho/50Projects/tree/main/DropBoxes)| Live Demo (https://jjecho.github.io/50Projects/DropBoxes/) |
 | 22  | Drawing App (https://github.com/JJeCho/50Projects/tree/main/DrawingPad) | Live Demo (https://jjecho.github.io/50Projects/DrawingPad/) |
-| 23  | Kinetic Loader | Live Demo |
-| 24  | Content Placeholder| Live Demo |
+| 23  | Kinetic Loader (https://github.com/JJeCho/50Projects/tree/main/KineticLoader) | Live Demo (https://jjecho.github.io/50Projects/KineticLoader/) |
+| 24  | Content Placeholder (https://github.com/JJeCho/50Projects/tree/main/ContentPlaceholder) | Live Demo (https://jjecho.github.io/50Projects/ContentPlaceholder/) |
 | 25  | Sticky Navbar  | Live Demo |
 | 26  | Double Vertical Slider | Live Demo |
 | 27  | Toast Notification| Live Demo |
