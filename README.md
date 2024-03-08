@@ -25,9 +25,9 @@ This repository serves as the main hub for all projects featured in the course.
 | 17  | Movie App (https://github.com/JJeCho/50Projects/tree/main/MoviesUI)| Live Demo (https://jjecho.github.io/50Projects/MoviesUI/) |
 | 18  | Background Slider (https://github.com/JJeCho/50Projects/tree/main/BackgroundSlider) | Live Demo (https://jjecho.github.io/50Projects/BackgroundSlider/) |
 | 19  | Theme Clock (https://github.com/JJeCho/50Projects/tree/main/Clock) | Live Demo (https://jjecho.github.io/50Projects/Clock/) |
-| 20  | Button Ripple Effect| Live Demo |
-| 21  | Drag N Drop | Live Demo |
-| 22  | Drawing App | Live Demo |
+| 20  | Button Ripple Effect (https://github.com/JJeCho/50Projects/tree/main/ButtonRipple) | Live Demo (https://jjecho.github.io/50Projects/ButtonRipple/) |
+| 21  | Drag N Drop (https://github.com/JJeCho/50Projects/tree/main/DropBoxes)| Live Demo (https://jjecho.github.io/50Projects/DropBoxes/) |
+| 22  | Drawing App (https://github.com/JJeCho/50Projects/tree/main/DrawingPad) | Live Demo (https://jjecho.github.io/50Projects/DrawingPad/) |
 | 23  | Kinetic Loader | Live Demo |
 | 24  | Content Placeholder| Live Demo |
 | 25  | Sticky Navbar  | Live Demo |
