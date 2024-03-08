@@ -23,7 +23,7 @@ This repository serves as the main hub for all projects featured in the course.
 | 15  | Incrementing Counter (https://github.com/JJeCho/50Projects/tree/main/IncrementCounter) | Live Demo (https://jjecho.github.io/50Projects/IncrementCounter/) |
 | 16  | Drink Water (https://github.com/JJeCho/50Projects/tree/main/DrinkWater) | Live Demo (https://jjecho.github.io/50Projects/DrinkWater/) |
 | 17  | Movie App (https://github.com/JJeCho/50Projects/tree/main/MoviesUI)| Live Demo (https://jjecho.github.io/50Projects/MoviesUI/) |
-| 18  | Background Slider | Live Demo |
+| 18  | Background Slider (https://github.com/JJeCho/50Projects/tree/main/BackgroundSlider)| Live Demo (https://jjecho.github.io/50Projects/BackgroundSlider/) |
 | 19  | Theme Clock | Live Demo |
 | 20  | Button Ripple Effect| Live Demo |
 | 21  | Drag N Drop | Live Demo |
