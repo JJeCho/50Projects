@@ -35,8 +35,8 @@ This repository serves as the main hub for all projects featured in the course.
 | 27  | Toast Notification (https://github.com/JJeCho/50Projects/tree/main/ToastNotification) | Live Demo (https://jjecho.github.io/50Projects/ToastNotification/) |
 | 28  | Github Profiles (https://github.com/JJeCho/50Projects/tree/main/GithubCard) | Live Demo (https://jjecho.github.io/50Projects/GithubCard/) |
 | 29  | Double Click Heart (https://github.com/JJeCho/50Projects/tree/main/HeartClick) | Live Demo (https://jjecho.github.io/50Projects/HeartClick/) |
-| 30  | Auto Text Effect  | Live Demo |
-| 31  | Password Generator| Live Demo |
+| 30  | Auto Text Effect (https://github.com/JJeCho/50Projects/tree/main/AutoText) | Live Demo (https://jjecho.github.io/50Projects/AutoText/) |
+| 31  | Password Generator (https://github.com/JJeCho/50Projects/tree/main/PasswordGenerator) | Live Demo (https://jjecho.github.io/50Projects/PasswordGenerator/) |
 | 32  | Good Cheap Fast| Live Demo |
 | 33  | Notes App | Live Demo |
 | 34  | Animated Countdown| Live Demo |
