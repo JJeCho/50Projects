@@ -30,11 +30,11 @@ This repository serves as the main hub for all projects featured in the course.
 | 22  | Drawing App (https://github.com/JJeCho/50Projects/tree/main/DrawingPad) | Live Demo (https://jjecho.github.io/50Projects/DrawingPad/) |
 | 23  | Kinetic Loader (https://github.com/JJeCho/50Projects/tree/main/KineticLoader) | Live Demo (https://jjecho.github.io/50Projects/KineticLoader/) |
 | 24  | Content Placeholder (https://github.com/JJeCho/50Projects/tree/main/ContentPlaceholder) | Live Demo (https://jjecho.github.io/50Projects/ContentPlaceholder/) |
-| 25  | Sticky Navbar  | Live Demo |
-| 26  | Double Vertical Slider | Live Demo |
-| 27  | Toast Notification| Live Demo |
-| 28  | Github Profiles| Live Demo |
-| 29  | Double Click Heart| Live Demo |
+| 25  | Sticky Navbar (https://github.com/JJeCho/50Projects/tree/main/StickyNavbar) | Live Demo (https://jjecho.github.io/50Projects/StickyNavbar/) |
+| 26  | Double Vertical Slider (https://github.com/JJeCho/50Projects/tree/main/VerticalSlider) | Live Demo (https://jjecho.github.io/50Projects/VerticalSlider/) |
+| 27  | Toast Notification (https://github.com/JJeCho/50Projects/tree/main/ToastNotification) | Live Demo (https://jjecho.github.io/50Projects/ToastNotification/) |
+| 28  | Github Profiles (https://github.com/JJeCho/50Projects/tree/main/GithubCard) | Live Demo (https://jjecho.github.io/50Projects/GithubCard/) |
+| 29  | Double Click Heart (https://github.com/JJeCho/50Projects/tree/main/HeartClick) | Live Demo (https://jjecho.github.io/50Projects/HeartClick/) |
 | 30  | Auto Text Effect  | Live Demo |
 | 31  | Password Generator| Live Demo |
 | 32  | Good Cheap Fast| Live Demo |
