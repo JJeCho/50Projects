@@ -37,8 +37,8 @@ This repository serves as the main hub for all projects featured in the course.
 | 29  | Double Click Heart (https://github.com/JJeCho/50Projects/tree/main/HeartClick) | Live Demo (https://jjecho.github.io/50Projects/HeartClick/) |
 | 30  | Auto Text Effect (https://github.com/JJeCho/50Projects/tree/main/AutoText) | Live Demo (https://jjecho.github.io/50Projects/AutoText/) |
 | 31  | Password Generator (https://github.com/JJeCho/50Projects/tree/main/PasswordGenerator) | Live Demo (https://jjecho.github.io/50Projects/PasswordGenerator/) |
-| 32  | Good Cheap Fast| Live Demo |
-| 33  | Notes App | Live Demo |
+| 32  | Good Cheap Fast (https://github.com/JJeCho/50Projects/tree/main/TriadBoxes) | Live Demo (https://jjecho.github.io/50Projects/TriadBoxes/) |
+| 33  | Notes App (https://github.com/JJeCho/50Projects/tree/main/LocalStorageNotes) | Live Demo (https://jjecho.github.io/50Projects/LocalStorageNotes/) |
 | 34  | Animated Countdown| Live Demo |
 | 35  | Image Carousel | Live Demo |
 | 36  | Hoverboard| Live Demo |
