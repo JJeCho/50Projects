@@ -39,8 +39,8 @@ This repository serves as the main hub for all projects featured in the course.
 | 31  | Password Generator (https://github.com/JJeCho/50Projects/tree/main/PasswordGenerator) | Live Demo (https://jjecho.github.io/50Projects/PasswordGenerator/) |
 | 32  | Good Cheap Fast (https://github.com/JJeCho/50Projects/tree/main/TriadBoxes) | Live Demo (https://jjecho.github.io/50Projects/TriadBoxes/) |
 | 33  | Notes App (https://github.com/JJeCho/50Projects/tree/main/LocalStorageNotes) | Live Demo (https://jjecho.github.io/50Projects/LocalStorageNotes/) |
-| 34  | Animated Countdown| Live Demo |
-| 35  | Image Carousel | Live Demo |
+| 34  | Animated Countdown (https://github.com/JJeCho/50Projects/tree/main/AnimatedCountdown) | Live Demo (https://jjecho.github.io/50Projects/AnimatedCountdown/) |
+| 35  | Image Carousel (https://github.com/JJeCho/50Projects/tree/main/ImageCarousel) | Live Demo (https://jjecho.github.io/50Projects/ImageCarousel/) |
 | 36  | Hoverboard| Live Demo |
 | 37  | Pokedex| Live Demo |
 | 38  | Mobile Tab Navigation  | Live Demo |
