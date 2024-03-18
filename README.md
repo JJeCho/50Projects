@@ -41,12 +41,12 @@ This repository serves as the main hub for all projects featured in the course.
 | 33  | Notes App (https://github.com/JJeCho/50Projects/tree/main/LocalStorageNotes) | Live Demo (https://jjecho.github.io/50Projects/LocalStorageNotes/) |
 | 34  | Animated Countdown (https://github.com/JJeCho/50Projects/tree/main/AnimatedCountdown) | Live Demo (https://jjecho.github.io/50Projects/AnimatedCountdown/) |
 | 35  | Image Carousel (https://github.com/JJeCho/50Projects/tree/main/ImageCarousel) | Live Demo (https://jjecho.github.io/50Projects/ImageCarousel/) |
-| 36  | Hoverboard| Live Demo |
-| 37  | Pokedex| Live Demo |
-| 38  | Mobile Tab Navigation  | Live Demo |
+| 36  | Hoverboard (https://github.com/JJeCho/50Projects/tree/main/Hoverboard) | Live Demo (https://jjecho.github.io/50Projects/Hoverboard/) |
+| 37  | Pokedex (https://github.com/JJeCho/50Projects/tree/main/Pokedex) | Live Demo (https://jjecho.github.io/50Projects/Pokedex/) |
+| 38  | Mobile Tab Navigation (https://github.com/JJeCho/50Projects/tree/main/MobileNavigation) | Live Demo (https://jjecho.github.io/50Projects/MobileNavigation/) |
 | 39  | Password Strength Background  | Live Demo |
-| 40  | 3d Background Boxes| Live Demo |
-| 41  | Verify Account Ui | Live Demo |
+| 40  | 3d Background Boxes (https://github.com/JJeCho/50Projects/tree/main/3DBoxes) | Live Demo (https://jjecho.github.io/50Projects/3DBoxes/) |
+| 41  | Verify Account Ui (https://github.com/JJeCho/50Projects/tree/main/VerifyAccountUI) | Live Demo (https://jjecho.github.io/50Projects/VerifyAccountUI/) |
 | 42  | Live User Filter  | Live Demo |
 | 43  | Feedback Ui Design| Live Demo |
 | 44  | Custom Range Slider | Live Demo |
