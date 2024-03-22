@@ -44,7 +44,7 @@ This repository serves as the main hub for all projects featured in the course.
 | 36  | Hoverboard (https://github.com/JJeCho/50Projects/tree/main/Hoverboard) | Live Demo (https://jjecho.github.io/50Projects/Hoverboard/) |
 | 37  | Pokedex (https://github.com/JJeCho/50Projects/tree/main/Pokedex) | Live Demo (https://jjecho.github.io/50Projects/Pokedex/) |
 | 38  | Mobile Tab Navigation (https://github.com/JJeCho/50Projects/tree/main/MobileNavigation) | Live Demo (https://jjecho.github.io/50Projects/MobileNavigation/) |
-| 39  | Password Strength Background  | Live Demo |
+| 39  | Password Strength Background (https://github.com/JJeCho/50Projects/tree/main/PasswordStrength) | Live Demo (https://jjecho.github.io/50Projects/PasswordStrength/) |
 | 40  | 3d Background Boxes (https://github.com/JJeCho/50Projects/tree/main/3DBoxes) | Live Demo (https://jjecho.github.io/50Projects/3DBoxes/) |
 | 41  | Verify Account Ui (https://github.com/JJeCho/50Projects/tree/main/VerifyAccountUI) | Live Demo (https://jjecho.github.io/50Projects/VerifyAccountUI/) |
 | 42  | Live User Filter  | Live Demo |
