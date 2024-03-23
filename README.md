@@ -47,13 +47,13 @@ This repository serves as the main hub for all projects featured in the course.
 | 39  | Password Strength Background (https://github.com/JJeCho/50Projects/tree/main/PasswordStrength) | Live Demo (https://jjecho.github.io/50Projects/PasswordStrength/) |
 | 40  | 3d Background Boxes (https://github.com/JJeCho/50Projects/tree/main/3DBoxes) | Live Demo (https://jjecho.github.io/50Projects/3DBoxes/) |
 | 41  | Verify Account Ui (https://github.com/JJeCho/50Projects/tree/main/VerifyAccountUI) | Live Demo (https://jjecho.github.io/50Projects/VerifyAccountUI/) |
-| 42  | Live User Filter  | Live Demo |
-| 43  | Feedback Ui Design| Live Demo |
-| 44  | Custom Range Slider | Live Demo |
-| 45  | Netflix Mobile Navigation | Live Demo |
-| 46  | Quiz App  | Live Demo |
-| 47  | Testimonial Box Switcher| Live Demo |
-| 48  | Random Image Feed  | Live Demo |
-| 49  | Todo List | Live Demo |
-| 50  | Insect Catch Game  | Live Demo |
-| 51  | Simple Timer| Live Demo |
+| 42  | Live User Filter (https://github.com/JJeCho/50Projects/tree/main/LiveUserFilter) | Live Demo (https://jjecho.github.io/50Projects/LiveUserFilter/) |
+| 43  | Feedback Ui Design (https://github.com/JJeCho/50Projects/tree/main/FeedbackUI) | Live Demo (https://jjecho.github.io/50Projects/FeedbackUI/) |
+| 44  | Custom Range Slider (https://github.com/JJeCho/50Projects/tree/main/CustomRangeSlider) | Live Demo (https://jjecho.github.io/50Projects/CustomRangeSlider/) |
+| 45  | Netflix Mobile Navigation (https://github.com/JJeCho/50Projects/tree/main/NetflixNavigation) | Live Demo (https://jjecho.github.io/50Projects/NetflixNavigation/) |
+| 46  | Quiz App (https://github.com/JJeCho/50Projects/tree/main/QuizApp) | Live Demo (https://jjecho.github.io/50Projects/QuizApp/) |
+| 47  | Testimonial Box Switcher (https://github.com/JJeCho/50Projects/tree/main/TestimonialBox) | Live Demo (https://jjecho.github.io/50Projects/TestimonialBox/) |
+| 48  | Random Image Feed (https://github.com/JJeCho/50Projects/tree/main/RandomImage) | Live Demo (https://jjecho.github.io/50Projects/RandomImage/) |
+| 49  | Todo List (https://github.com/JJeCho/50Projects/tree/main/ToDoList) | Live Demo (https://jjecho.github.io/50Projects/ToDoList/) |
+| 50  | Insect Catch Game (https://github.com/JJeCho/50Projects/tree/main/InsectCatcher) | Live Demo (https://jjecho.github.io/50Projects/InsectCatcher/) |
+| 51  | Simple Timer (https://github.com/JJeCho/50Projects/tree/main/SimpleTimer) | Live Demo (https://jjecho.github.io/50Projects/SimpleTimer/) |
