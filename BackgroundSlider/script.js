@@ -5,6 +5,10 @@ const rightBtn = document.getElementById('right');
 
 let activeSlide = 0;
 
+const unsplashURL = 'https://source.unsplash.com/random/';
+slides.forEach((slide) => 
+    slide.style.backgroundImage = `url(${unsplashURL}${getRandomSize()})`
+);
 setBgToBody();
 
 function setBgToBody() {
@@ -37,4 +41,12 @@ leftBtn.addEventListener('click', () => {
     setBgToBody();
     setActiveSlide();
 })
+
+function getRandomSize() {
+    return `${getRandomNr()}x${getRandomNr()}`
+}
+
+function getRandomNr() {
+    return Math.floor(Math.random() * 10) + 1000
+}
 

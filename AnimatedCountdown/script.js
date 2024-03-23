@@ -1,42 +1,38 @@
-const nums = document.querySelectorAll('.nums span');
-const counter = document.querySelector('.counter');
-const finalMessage = document.querySelector('.final');
-const replay = document.querySelector('.reset');
+const counter = document.querySelector(".counter");
+const finalMessage = document.querySelector(".final");
+const replay = document.querySelector(".reset");
+const nums = Array.from(document.querySelectorAll(".nums span"));
 
-runAnimation()
+resetDOM();
+runAnimation();
+
+replay.addEventListener("click", resetAndRun);
+
+function resetAndRun() {
+  resetDOM();
+  runAnimation();
+}
 
 function resetDOM() {
-    counter.classList.remove('hide');
-    finalMessage.classList.remove('show');
-
-    nums.forEach((num) => {
-        num.classList.value = '';
-    })
-
-    nums[0].classList.add('in');
+  counter.classList.remove("hide");
+  finalMessage.classList.remove("show");
+  nums.forEach((num) => num.classList.remove("in", "out"));
+  nums[0].classList.add("in");
 }
 
 function runAnimation() {
-    nums.forEach((num, index) => {
-        const nextToLast = nums.length - 1;
+  nums.forEach((num, index) => {
+    const isLast = index === nums.length - 1;
 
-        num.addEventListener('animationend', (e) => {
-            if(e.animationName === 'goIn' && index !== nextToLast) {
-                num.classList.remove('in');
-                num.classList.add('out');
-            } else if(e.animationName === 'goOut' && num.nextElementSibling) {
-                num.nextElementSibling.classList.add('in');
-            } else {
-                counter.classList.add('hide');
-                finalMessage.classList.add('show');
-            }          
-        });
+    num.addEventListener("animationend", () => {
+      num.classList.remove(isLast ? "out" : "in");
+      if (!isLast) {
+        nums[index + 1].classList.add("in");
+      } else {
+        counter.classList.add("hide");
+        finalMessage.classList.add("show");
+      }
     });
+  });
 }
-
-replay.addEventListener('click', () => {
-    resetDOM();
-    runAnimation();
-})
-
 

@@ -1,54 +1,99 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    background-color: black;
-
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: white;
 }
 button {
-    background-color: purple;
-    color: #fff;
-    border: 1px purple solid;
-    font-size: 14px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    padding: 20px 30px;
-    overflow: hidden;
-    margin: 10px 0;
-    position: relative;
+  background-color: royalblue;
+  color: #fff;
+  border: 1px royalblue solid;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 20px 30px;
+  overflow: hidden;
+  margin: 10px 0;
+  position: relative;
 }
 
 button:focus {
-    outline: none;
+  outline: none;
 }
 
 button .circle {
-    position: absolute;
-    background-color: #fff;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    transform: translate(-50%, -50%) scale(0);
-    animation: scale 0.5s ease-out;
+  position: absolute;
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  animation: scale 0.5s ease-out;
+}
+
+button .triangle {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 50px solid white;
+  transform: translate(-50%, -50%) scale(0);
+  animation: scale 0.5s ease-out;
+}
+
+button .square {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  transform: translate(-50%, -50%) scale(0);
+  animation: scale 0.5s ease-out;
+  border-radius: 4px;
 }
 
 @keyframes scale {
-    to {
-        transform: translate(-50%, -50%) scale(3);
-        opacity: 0;
-    }
+  to {
+    transform: translate(-50%, -50%) scale(3);
+    opacity: 0;
+  }
 }
 
+.btn1 {
+  position: absolute;
+}
 
+.btn2 {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
 
+.btn3 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.btn4 {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.btn5 {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
