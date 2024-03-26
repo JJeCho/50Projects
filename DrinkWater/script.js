@@ -31,7 +31,7 @@ function updateBigCup() {
     } else {
         percentage.style.visibility = 'visible';
         percentage.style.height = `${fullCups / totalCups * 330}px`;
-        percentage.innerText = `${fullCups / totalCups * 100}%`;
+        percentage.innerText = `${(Math.round((fullCups / totalCups * 10000) + Number.EPSILON) / 100).toFixed(2)}%`;
     }
 
     if(fullCups === totalCups) {
@@ -39,6 +39,6 @@ function updateBigCup() {
         remained.style.height = 0;
     } else {
         remained.style.visibility = 'visible';
-        liters.innerText = `${2 - (250 * fullCups / 1000)}L`;
+        liters.innerText = `${6 - (250 * fullCups / 1000)}L`;
     }
 }
