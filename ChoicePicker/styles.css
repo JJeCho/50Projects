@@ -52,3 +52,25 @@ textarea {
     background-color: #273c75;
 }
 
+.btn {
+    background-color: darkblue ;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+
